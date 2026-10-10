@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="280" viewBox="0 0 760 280" fill="none" stroke="#286345" stroke-linecap="round" stroke-linejoin="round">
+<g stroke-width="2"><path d="M-20 42H780M-20 112H780M-20 196H780M-20 253H780M65-20V300M178-20V300M305-20V300M447-20V300M583-20V300M708-20V300"/><path d="M-20 280 240-20M480 300 780 0" stroke-width="8"/><path d="M-20 280 240-20M480 300 780 0" stroke="#fff" stroke-width="4"/></g>
+<g fill="#286345" fill-opacity=".25" stroke="none"><rect x="80" y="56" width="80" height="42" rx="5"/><rect x="195" y="129" width="90" height="50" rx="5"/><rect x="463" y="55" width="102" height="40" rx="5"/><rect x="600" y="210" width="90" height="28" rx="5"/></g>
+<g stroke-width="2.5">
+<!-- Hotel: cama -->
+<g transform="translate(335 62)"><rect x="-7" y="-8" width="46" height="37" rx="7" fill="white"/><path d="M0 18V1m0 10h29v10M0 17h29M5 6h6v5H5Zm10 5V4h10q4 0 4 4v3"/></g>
+<!-- Autobús -->
+<g transform="translate(102 145)"><rect x="-7" y="-8" width="43" height="47" rx="7" fill="white"/><rect x="0" y="0" width="23" height="28" rx="4"/><path d="M1 15h21M11 1v13M4 28v5m15-5v5M5 21h1m11 0h1"/></g>
+<!-- Supermercado: carrito -->
+<g transform="translate(625 68)"><rect x="-8" y="-8" width="50" height="43" rx="7" fill="white"/><path d="M0 0h5l5 19h20l5-14H7M12 24h18"/><circle cx="13" cy="29" r="2"/><circle cx="28" cy="29" r="2"/></g>
+<!-- Hotel -->
+<g transform="translate(350 214)"><rect x="-7" y="-8" width="46" height="37" rx="7" fill="white"/><path d="M0 18V1m0 10h29v10M0 17h29M5 6h6v5H5Zm10 5V4h10q4 0 4 4v3"/></g>
+</g></svg>
