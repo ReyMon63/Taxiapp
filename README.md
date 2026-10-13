@@ -23,3 +23,5 @@ Abre http://localhost:8765.
 Contraseña de demostración: **viáticos**, con acento. La lista y contraseña están en `config.js`, visibles para quien acceda al repositorio o al sitio. No es autenticación segura: no usar para gastos reales hasta implementar acceso seguro y revisar privacidad.
 
 Los viajes se guardan únicamente en este navegador y dispositivo; el CSV permite exportarlos. GitHub Pages no agrega base de datos ni sincronización entre usuarios. El GPS exige permiso al inicio y final. Ciudad y estado se consultan en BigDataCloud solo con consentimiento. El indicador refleja disponibilidad de ubicación, no el interruptor físico del GPS. Los kilómetros no se calculan automáticamente.
+
+Al descargar el CSV se pide confirmación: cancelar conserva los viajes; confirmar solicita la descarga y elimina únicamente los viajes del usuario actual. El navegador no confirma que el archivo haya terminado de guardarse.
