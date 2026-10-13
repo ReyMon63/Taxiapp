@@ -25,3 +25,5 @@ Cada territorial tiene una contraseña distinta definida en `config.js`. La list
 Los viajes se guardan únicamente en este navegador y dispositivo; el CSV permite exportarlos. GitHub Pages no agrega base de datos ni sincronización entre usuarios. El GPS exige permiso al inicio y final. Ciudad y estado se consultan en BigDataCloud solo con consentimiento. El indicador refleja disponibilidad de ubicación, no el interruptor físico del GPS. Los kilómetros no se calculan automáticamente.
 
 Al descargar el CSV se pide confirmación: cancelar conserva los viajes; confirmar solicita la descarga y elimina únicamente los viajes del usuario actual. El navegador no confirma que el archivo haya terminado de guardarse.
+
+Direcciones aproximadas: se consulta Photon/Komoot con datos de OpenStreetMap al iniciar y terminar cada nuevo viaje, con consentimiento. Se usa caché durante la sesión y espera máxima de diez segundos por consulta. Si no hay red, cobertura o consentimiento, el CSV muestra Dirección no disponible y las coordenadas de respaldo. Los viajes anteriores no se modifican. Servicio de uso moderado sin garantía de disponibilidad: https://photon.komoot.io/.
